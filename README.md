@@ -51,14 +51,21 @@
 </div>
 
 <div align="center">
-  <h3>📈 连续打卡记录 | Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hoy11&theme=tokyonight&hide_border=true" />
+  <h3>📊 GitHub 数据统计 | Stats</h3>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoy11&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoy11&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Hoy11&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<hr/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hoy11&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <h3>📈 连续打卡记录 | Streak</h3>
+  <img src="https://streak-stats.demolab.com?user=Hoy11&theme=tokyonight&hide_border=true" />
+</div>
   <br/>
   <sub><i>"Talk is cheap. Show me the code."</i></sub>
 </div>
