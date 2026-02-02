@@ -13,7 +13,7 @@
 - 🔭 我目前正在通过开源项目提升自己。
 - 🌱 我正在深入学习 **Full Stack Development**。
 - 💬 欢迎向我咨询关于技术或编程的问题。
-- 📫 联系方式: **your_email@example.com**
+- 📫 联系方式: **dinhanhtrang519@gmail.com**
 
 ---
 
