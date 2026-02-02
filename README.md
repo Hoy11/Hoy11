@@ -31,11 +31,8 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub 数据统计 | Stats</h3>
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hoy11&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hoy11&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <h3>📊 全能统计 | Metrics</h3>
+  <img src="https://metrics.lecoq.io/Hoy11?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FShanghai" />
 </div>
 
 <div align="center">
